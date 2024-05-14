@@ -52,7 +52,8 @@
 
 - 请从https://github.com/z-bool/Venom-aoman直接下载纯净编译的chromium。
 - 启动时跳powershell窗口，应该是最小打包哪个依赖没打进来吧，没加🐎，不放心的话自查一下
-
+<h4>更新</h4>
+release中加入编译去debugger的chromium，就不用切火狐去过无限debugger了。
 <div id="communicate"></div>
 
 <h3>技术交流</h3>
